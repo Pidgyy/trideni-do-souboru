@@ -1,0 +1,15 @@
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\bin\Debug\net6.0\sorting do souboru.exe
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\bin\Debug\net6.0\sorting do souboru.deps.json
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\bin\Debug\net6.0\sorting do souboru.runtimeconfig.json
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\bin\Debug\net6.0\sorting do souboru.dll
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\bin\Debug\net6.0\sorting do souboru.pdb
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.csproj.AssemblyReference.cache
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.AssemblyInfoInputs.cache
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.AssemblyInfo.cs
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.csproj.CoreCompileInputs.cache
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.dll
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\refint\sorting do souboru.dll
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.pdb
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\sorting do souboru.genruntimeconfig.cache
+C:\Users\Greth\source\repos\sorting do souboru\sorting do souboru\obj\Debug\net6.0\ref\sorting do souboru.dll
