@@ -1,4 +1,4 @@
-﻿string cestaSoubor = (@"C:\trideni\nesetrizene.txt");
+string cestaSoubor = (@"C:\trideni\nesetrizene.txt");
 string cestaSoubor2 = (@"C:\trideni\setrizeno.txt");
 Random nahoda = new Random();
 int[] vystupcisla = new int[100];
